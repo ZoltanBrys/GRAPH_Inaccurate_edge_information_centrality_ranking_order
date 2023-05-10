@@ -1,6 +1,6 @@
 #Author1=ORCID:0000-0002-3324-2255
 #Author2=ORCID:0000-0002-1319-0785
-#Title=Effect of inaccurate edge information on centrality ranking error in classroom networks
+#Title=Effect of inaccurate edge information on centrality ranking order error in classroom networks
 #ver=3.221
 #date=10th of May, 2025
 
